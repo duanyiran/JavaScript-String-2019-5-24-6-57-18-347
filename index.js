@@ -25,4 +25,4 @@ document.write(sentence.titleCase())
 // 完成下面程序，将money变量中的金额提取出来，输出：20。
 var money = '￥20';
 //TODO write your code here...
-document.write(money.substring(2))
+document.write(money.substring(1))
